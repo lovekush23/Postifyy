@@ -25,6 +25,4 @@ Frontend: Deployed from the build branch. Deployed using clouflare. To visit go 
 High Level Architecture:
 The architecture of Postify is really simple. Client sends HTTP Requests to the backend server. Backend is responsible for authenticating the user, performing CRUD updates on the database and sending HTTP responses back to the client in JSON format. The Request and Response sent/received are handled by flutter framework and the JSON is displayed in beautified fashion in UI.
 
-HLD
-
 Feel free to explore each branch for specific code and documentation related to that part of the project.
