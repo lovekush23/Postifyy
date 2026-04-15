@@ -1,3 +1,4 @@
+
 A flutter based web application which allows users to connect, create posts, and send friend requests, and chat with friends. To use the web app go to this link: https://postify-16l.pages.dev/ To know more about the design and improvements that can be made refer to the design doc: https://docs.google.com/document/d/1VVitMtY_d1hZxBDaYAMw1jJNY4rVtklJ4gVQntFo3Ok/edit?usp=sharing
 
 – Implemented the frontend using Flutter, creating interactive user interfaces with widgets and handling user input.
@@ -16,7 +17,7 @@ The backend of Postify is hosted on the backend branch. The Backend is built usi
 
 Frontend
 The frontend code can be found on the frontend branch. Frontend is built completely using Flutter. This branch contains all the flutter code other than build folder.
-
+<img width="1230" height="509" alt="343723923-c8b6877e-c71d-4946-b163-f43f641fd4a5" src="https://github.com/user-attachments/assets/cab748b9-3ab1-4d44-afdf-1d4eba9b0332" />
 Deployment
 Backend: Hosted from the backend branch. Deployed using Render
 
